@@ -1,4 +1,4 @@
-# gowinsample
+# gowinsamples
 
 This is sample programs for golang.
 
